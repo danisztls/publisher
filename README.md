@@ -44,3 +44,6 @@ publisher site/
 - [ ] Rules for Jekyll post
 - [ ] Image optimization
 - [ ] Export to PDF (try [m2pdf](https://github.com/jmaupetit/md2pdf))
+
+## License
+[MIT License](https://github.com/lbcnz/publisher/blob/main/LICENSE)
